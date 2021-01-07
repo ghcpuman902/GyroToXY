@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - hardware_buttons (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - sensors (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - hardware_buttons (from `.symlinks/plugins/hardware_buttons/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  hardware_buttons:
+    :path: ".symlinks/plugins/hardware_buttons/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  hardware_buttons: 014f502132c734dc391a47e2b708728b1dd8bf32
+  integration_test: 5ed24a436eb7ec17b6a13046e9bf7ca4a404e59e
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
